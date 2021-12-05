@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "proyectoreact",
+    "slug": "proyectoreact",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "proyectoreact"
+}
